@@ -13,8 +13,8 @@
 ;[environment:<environment_name>]
 ;members = <node_name>, <node_name2>
 
-;[cesi]
-;database = <path_to_database_file>
+[cesi]
+database = info.db
 ;activity_log = <path_to_activity_log_file>
-;host = <bind_ip>
+host = localhost
 
